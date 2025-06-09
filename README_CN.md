@@ -39,6 +39,8 @@
 - [Wordle](https://www.nytimes.com/games/wordle/) - 每日单词拼图游戏
 - [2048](https://2048game.com/) - 数字拼图游戏
 - [Chess.com](https://www.chess.com/) - 在线国际象棋平台
+- [Geometry Dash Unblocked](https://geometry-dash-unblocked.com) - 在线免费 Geometry Dash Unblocked 游戏
+- [Playxia.com](https://www.playxia.com/) - 综合在线游戏平台
 
 ### 游戏资源
 - [Steam](https://store.steampowered.com/) - 视频游戏数字发行平台
@@ -143,6 +145,8 @@
 - [Can I Use](https://caniuse.com/) - Web技术浏览器支持表
 - [Regex101](https://regex101.com/) - 在线正则表达式测试器和调试器
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - JSON格式化和验证器
+- [find fun site](https://findfun.site/) - 发现有趣的网站
+- [tiktok emojis](https://tiktokemojis.cc) - tiktok emojis codes 复制网站
 
 ### 参考资料
 - [Wikipedia](https://www.wikipedia.org/) - 免费在线百科全书

@@ -39,6 +39,8 @@
 - [Wordle](https://www.nytimes.com/games/wordle/) - Daily word puzzle game
 - [2048](https://2048game.com/) - Number puzzle game
 - [Chess.com](https://www.chess.com/) - Online chess platform
+- [Geometry Dash Unblocked](https://geometry-dash-unblocked.com) - free online Geometry Dash Unblocked games
+- [Playxia.com](https://www.playxia.com/) - free online games
 
 ### Game Resources
 - [Steam](https://store.steampowered.com/) - Digital distribution platform for video games
@@ -143,6 +145,8 @@
 - [Can I Use](https://caniuse.com/) - Browser support tables for web technologies
 - [Regex101](https://regex101.com/) - Online regex tester and debugger
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - JSON formatter and validator
+- [find fun site](https://findfun.site/) - find fun websites
+- [tiktok emojis](https://tiktokemojis.cc) - tiktok emojis codes copy and paste tool website
 
 ### Reference
 - [Wikipedia](https://www.wikipedia.org/) - Free online encyclopedia
