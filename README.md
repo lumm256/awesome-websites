@@ -41,6 +41,7 @@
 - [Chess.com](https://www.chess.com/) - Online chess platform
 - [Geometry Dash Unblocked](https://geometry-dash-unblocked.com) - free online Geometry Dash Unblocked games
 - [Playxia.com](https://www.playxia.com/) - free online games
+- [SkyCOTL Tools](https://skycotl.tools/) - Free web helpers for Sky: Children of the Light, including seasonal events, candles, and in-game trackers
 
 ### Game Resources
 - [Steam](https://store.steampowered.com/) - Digital distribution platform for video games
@@ -70,11 +71,13 @@
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons
 - [Feather Icons](https://feathericons.com/) - Simply beautiful open source icons
 - [Unsplash](https://unsplash.com/) - High-quality free photos
+- [Image to Crochet Pattern](https://imagetocrochetpattern.com/) - Convert any image into a printable crochet chart
 
 ### Color Tools
 - [Coolors](https://coolors.co/) - Color palette generator
 - [Adobe Color](https://color.adobe.com/) - Color wheel and palette creation
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/) - Web accessibility color contrast checker
+- [Codex Theme Builder](https://codextheme.tools/) - Build and customize color themes for OpenAI Codex terminals
 
 ### UI Components
 - [Tailwind UI](https://tailwindui.com/) - Beautiful UI components built with Tailwind CSS
@@ -147,6 +150,11 @@
 - [JSON Formatter](https://jsonformatter.curiousconcept.com/) - JSON formatter and validator
 - [find fun site](https://findfun.site/) - find fun websites
 - [tiktok emojis](https://tiktokemojis.cc) - tiktok emojis codes copy and paste tool website
+- [Pressure Washer Fix](https://pressurewasherfix.com/) - Diagnose and repair common pressure washer problems with step-by-step guides
+- [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/) - Instant estimates for mowing, edging, and seasonal lawn care
+- [WattsCalc](https://wattscalc.com/) - Free conduit-bending and electrical calculators for electricians
+- [Embroidery Pricing Calculator](https://embroiderypricingcalculator.com/) - Quote custom embroidery jobs by stitch count and garment type
+- [WorkroomCalc](https://workroomcalc.co.uk/) - Free Roman blind calculator for fabric, lining, rods, and cord estimates
 
 ### Reference
 - [Wikipedia](https://www.wikipedia.org/) - Free online encyclopedia
