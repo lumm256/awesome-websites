@@ -41,6 +41,8 @@
 - [Chess.com](https://www.chess.com/) - 在线国际象棋平台
 - [Geometry Dash Unblocked](https://geometry-dash-unblocked.com) - 在线免费 Geometry Dash Unblocked 游戏
 - [Playxia.com](https://www.playxia.com/) - 综合在线游戏平台
+- [Best Daily Games](https://bestdaily.games/) - 按文字、地理和问答等主题查找每日谜题，并打开创作者原版。
+- [Puffer Party](https://pufferparty.org/) - 免费网页派对游戏，和朋友进私人房间，轮流给出新答案传递河豚。
 
 ### 游戏资源
 - [Steam](https://store.steampowered.com/) - 视频游戏数字发行平台
