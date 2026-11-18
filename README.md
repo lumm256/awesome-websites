@@ -41,6 +41,8 @@
 - [Chess.com](https://www.chess.com/) - Online chess platform
 - [Geometry Dash Unblocked](https://geometry-dash-unblocked.com) - free online Geometry Dash Unblocked games
 - [Playxia.com](https://www.playxia.com/) - free online games
+- [Best Daily Games](https://bestdaily.games/) - Find daily word, geography, and trivia puzzles on their original sites.
+- [Puffer Party](https://pufferparty.org/) - Play a timed word party game with friends in a private browser room.
 
 ### Game Resources
 - [Steam](https://store.steampowered.com/) - Digital distribution platform for video games
